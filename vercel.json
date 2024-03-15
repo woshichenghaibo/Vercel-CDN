@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://nav.fewdrive.eu.org/$1"}
+    {"source": "/(.*)", "destination": "https://nav.fewknown.com/$1"}
   ]
 }

@@ -1,6 +1,6 @@
 {
   "rewrites": 
   [
-    { "source": "/(.*)", "destination": "http://[2409:8A00:54B7:E8A0:32FE:F0A9:F2AB:9568]:5244/" }
+    { "source": "/(.*)", "destination": "http://yun.fewdrive.eu.org:5244/" }
   ]
 }

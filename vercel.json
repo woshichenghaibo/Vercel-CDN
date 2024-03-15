@@ -1,5 +1,6 @@
 {
-  "rewrites": [
-    {"source": "/(.*)", "destination": "https://nav.fewknown.com/$1"}
-  ]
+    "version": 2,
+    "routes": [
+      {"src": "/(.*)","dest": "https://yun.fewdrive.eu.or:5244"}
+    ]
 }

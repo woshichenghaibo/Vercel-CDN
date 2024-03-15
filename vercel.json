@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "http://yun.fewdrive.eu.org:5244/$1"}
+    {"source": "/(.*)", "destination": "http://yun.fewdrive.eu.org:5244"}
   ],
   "headers": [
     {

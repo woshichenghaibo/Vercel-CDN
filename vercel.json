@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "http://yun.fewdrive.eu.org:5244"}
+      {"src": "/(.*)","dest": "https://nav.fewdrive.eu.org"}
     ]
 }

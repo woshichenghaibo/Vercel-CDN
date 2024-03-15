@@ -1,6 +1,3 @@
 {
-    "version": 2,
-    "routes": [
-      {"src": "/(.*)","dest": "http://yun.fewdrive.eu.org:5244"}
-    ]
+  "rewrites": [{ "source": "/:match*", "destination": "http://127.0.0.1:5244/:match*" }]
 }
